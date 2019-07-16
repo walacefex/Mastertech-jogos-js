@@ -22,12 +22,12 @@ h1{
 
 main{
     height: calc(100vh - 110px);
-    width: 80vw;
+    width: 70vw;
     display: grid;
     grid-template-columns:  repeat(4, 1fr);
     grid-template-rows: 1fr 1fr 1fr 1fr;
-  justify-items: center;
-  align-items: center;
+    justify-items: center;
+    align-items: center;
     
 }
 
